@@ -1,0 +1,5 @@
+[project]
+name = "learn-anything-with-ai"
+version = "0.1.0"
+description = "A reusable AI learning skill for mastering almost any subject through project-driven learning, mastery checks, and authoritative sources."
+requires-python = ">=3.10"
